@@ -1,0 +1,22 @@
+{
+  "name": "restaurant_japonais",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+"sass": "sass sass/global.scss styles/raw/style.css --watch"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djepomonti/restaurant_japonais.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djepomonti/restaurant_japonais/issues"
+  },
+  "homepage": "https://github.com/Djepomonti/restaurant_japonais#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
